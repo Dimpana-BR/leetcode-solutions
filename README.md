@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
