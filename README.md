@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
