@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
