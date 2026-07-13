@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0383-ransom-note) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
