@@ -15,3 +15,7 @@ class Solution {
         return left;
     }
 }
+
+//Memory Trick
+
+//left is always the first position where the target can be inserted.
