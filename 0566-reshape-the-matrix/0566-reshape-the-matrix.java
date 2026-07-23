@@ -10,7 +10,7 @@ class Solution {
      int index=0;
      for(int i=0;i<row;i++){
         for(int j=0;j<col;j++){
-            ans[index/c][index%c]=mat[i][j];
+            ans[index/c][index%c]=mat[i][j];//to get the new row and col we use that / adn %
             index++;
         }
      }
