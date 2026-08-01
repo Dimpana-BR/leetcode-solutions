@@ -1,0 +1,22 @@
+class Solution {
+    public boolean predictTheWinner(int[] nums) {
+        int n = nums.length;
+        int[][] dp = new int[n][n];
+
+        // Base case: Subarrays of length 1
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = nums[i];
+        }
+
+        // Fill DP table for subarray lengths from 2 to n
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i <= n - len; i++) {
+                int j = i + len - 1;
+                dp[i][j] = Math.max(nums[i] - dp[i + 1][j], nums[j] - dp[i][j - 1]);
+            }
+        }
+
+        // If net difference >= 0, Player 1 wins
+        return dp[0][n - 1] >= 0;
+    }
+}
