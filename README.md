@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
