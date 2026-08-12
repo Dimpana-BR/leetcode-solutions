@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0877-stone-game) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design
 |  |
