@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0268-missing-number) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0383-ransom-note) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design
 |  |
@@ -456,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
