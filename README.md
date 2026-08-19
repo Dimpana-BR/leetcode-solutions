@@ -497,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
