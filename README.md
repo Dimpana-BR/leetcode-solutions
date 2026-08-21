@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
