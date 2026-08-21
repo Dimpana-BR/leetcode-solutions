@@ -8,8 +8,8 @@ class Solution {
             }
         }
     }
-    public void swap(int left,int right, int[] nums){
-        int temp = nums[left];
+    public void swap(int left,int right,int[] nums){
+        int temp=nums[left];
         nums[left]=nums[right];
         nums[right]=temp;
     }
