@@ -6,10 +6,12 @@ class Solution {
             while(left<right && !Character.isLetterOrDigit(s.charAt(left))){
                 left++;
             }
-            while(left < right && !Character.isLetterOrDigit(s.charAt(right))){
+            while(left<right && ! Character.isLetterOrDigit(s.charAt(right))){
                 right--;
             }
-            if(Character.toLowerCase(s.charAt(left))!= Character.toLowerCase(s.charAt(right))){
+            char l = Character.toLowerCase(s.charAt(left));
+            char r = Character.toLowerCase(s.charAt(right));
+            if(l != r){
                 return false;
             }
             left++;
