@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0877-stone-game) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dimpana-BR/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
