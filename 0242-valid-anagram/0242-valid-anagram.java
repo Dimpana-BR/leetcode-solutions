@@ -3,32 +3,18 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        HashMap<Character,Integer> map = new HashMap<>();
-       for(int i=0;i<s.length();i++){
-        char ch=s.charAt(i);
-        if(map.containsKey(ch)){
-            map.put(ch,map.get(ch)+1);
-        }else{
-            map.put(ch,1);
+        int[] freq = new int[26];
+        for(int i=0;i<s.length();i++){
+            freq[s.charAt(i)-'a']++;
         }
-       }
-       for(int j=0;j<t.length();j++){
-        char th=t.charAt(j);
-        if(!map.containsKey(th)){
-            return false;
+        for(int i=0;i<t.length();i++){
+            freq[t.charAt(i)-'a']--;
         }
-        map.put(th,map.get(th)-1);
-        if(map.get(th)==0){
-            map.remove(th);
+        for(int count:freq){
+            if(count!=0){
+                return false;
+            }
         }
-
-       }
-       if(map.isEmpty()){
         return true;
-       }
-       return false;
-
-      
     }
-
 }
